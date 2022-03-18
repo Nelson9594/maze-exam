@@ -62,4 +62,4 @@ I will check the execution time of your program, and you will get points accordi
 
 ## Author
 
-* Nelson Boda[@Nelson](https://github.com/Nelson9594)
+* [Nelson Boda](https://github.com/Nelson9594)
