@@ -24,8 +24,8 @@ Hi, here are some rules to carry out this story oav;
     "lastName": "BODA"
   },
   {
-    "firstName": "John",
-    "lastName": "DOE"
+    "firstName": "Faiza",
+    "lastName": "AKABLI"
   }
 ]$
 ```
