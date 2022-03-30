@@ -9,10 +9,10 @@ pt_start = (0, 0)
 pt_finish = (0, 0)
 x = 0
 
-start_x = 0
-start_y = 0
-end_x = 0
-end_y = 0
+position_x = 0
+position_y = 0
+finish_x = 0
+finish_y = 0
 
 for line in lines:
     y = 0
@@ -20,12 +20,12 @@ for line in lines:
         matrix.append([])
     for value in line:
         if value == '1':
-            start_x = x
-            start_y = y
+            position_x = x
+            position_y = y
 
         if value == '2':
-            end_x = x
-            end_y = y
+            finish_x = x
+            finish_y = y
 
         matrix[x].append(value)
         y += 1
@@ -35,5 +35,5 @@ for line in lines:
 for i in range(0, 12):
     print(matrix[i])
 
-pt_start = (start_x, start_y)
+pt_start = (position_x, position_y)
 print(pt_start)
