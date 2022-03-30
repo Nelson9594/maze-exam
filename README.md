@@ -63,3 +63,4 @@ I will check the execution time of your program, and you will get points accordi
 ## Author
 
 * Nelson Boda(https://github.com/Nelson9594)
+* Faiza Akabli(https://github.com/Nelson9594)
